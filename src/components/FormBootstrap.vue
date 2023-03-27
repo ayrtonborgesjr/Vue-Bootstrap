@@ -122,7 +122,8 @@ export default {
         { value: null, text: "" },
         { value: "BRA", text: "Brasil" },
         { value: "USA", text: "Estados Unidos" },
-        { value: "CAN", text: "Canadá" }
+        { value: "CAN", text: "Canadá" },
+        { value: "USS", text: "União Soviética (Inativo)", disabled: true }
       ],
       estados: [
         { value: null, text: "" },
